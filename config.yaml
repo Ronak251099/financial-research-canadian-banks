@@ -1,0 +1,16 @@
+
+universe:
+  RY.TO: "Royal Bank of Canada"
+  TD.TO: "Toronto-Dominion Bank"
+  BMO.TO: "Bank of Montreal"
+  BNS.TO: "Bank of Nova Scotia"
+  CM.TO: "CIBC"
+  NA.TO: "National Bank of Canada"
+
+settings:
+  currency: "CAD"
+  years: 5
+  cache_raw: true
+  cache_dir: "data/raw"
+  processed_dir: "data/processed"
+  report_path: "reports/summary.md"
